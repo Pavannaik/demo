@@ -1,3 +1,3 @@
 This is testing
 This is testing for second time
-I am in a update branch
+This is a conflict branch used in update branch
